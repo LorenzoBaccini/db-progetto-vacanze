@@ -1,40 +1,46 @@
 {
     "workers":[
         {
-            "id": 1,
-            "name" : "Mark",
-            "surname": "Green",
+            "id": 0,
+            "name" : "mark",
+            "surname": "green",
             "address": "Corso Italia, 11",
-            "phone" : 3330430302
+            "phone" : "3330430302"
+        },
+        {
+            "id": 1,
+            "name" : "jhon",
+            "surname": "smith",
+            "address": "Corso Francia, 21",
+            "phone" : "3265987412"
         },
         {
             "id": 2,
-            "name" : "jhon",
-            "surname": "Smith",
-            "address": "Corso Francia, 21",
-            "phone" : 3265987412
+            "name" : "laura",
+            "surname": "jhonson",
+            "address": "Via Verdi, 102",
+            "phone" : "3330130302"
         },
         {
             "id": 3,
-            "name" : "Laura",
-            "surname": "Jhonson",
-            "address": "Via Verdi, 102",
-            "phone" : 3330130302
-        },
-        {
-            "id": 4,
-            "name" : "Andrea",
-            "surname": "Bianchi",
+            "name" : "andrea",
+            "surname": "bianchi",
             "address": "Via Rossini, 4",
-            "phone" : 3126549877
+            "phone" : "3126549877"
         }
     ],
     "users_login":[
-        {   "id" : 1,
-            "name" : "Mario",
-            "surname" : "Rossi",
+        {   "id" : 0,
+            "name" : "mario",
+            "surname" : "rossi",
             "email" : "mario@gmail.com",
-            "password" : "1Mariorossi!"
+            "password" : "mario123"
+        },
+        {   "id" : 1,
+            "name" : "pippo",
+            "surname" : "verdi",
+            "email" : "pippo@gmail.com",
+            "password" : "pippo123"
         }
     ]
 }

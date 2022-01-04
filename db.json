@@ -31,12 +31,14 @@
     ],
     "users_login":[
         {   "id" : 0,
+            "logged" : true,
             "name" : "mario",
             "surname" : "rossi",
             "email" : "mario@gmail.com",
             "password" : "mario123"
         },
         {   "id" : 1,
+            "logged" : true,
             "name" : "pippo",
             "surname" : "verdi",
             "email" : "pippo@gmail.com",

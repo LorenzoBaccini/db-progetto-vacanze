@@ -34,6 +34,7 @@
             "logged" : true,
             "name" : "mario",
             "surname" : "rossi",
+            "nickname" : "mariox",
             "email" : "mario@gmail.com",
             "password" : "mario123"
         },
@@ -41,6 +42,7 @@
             "logged" : true,
             "name" : "pippo",
             "surname" : "verdi",
+            "nickname" : "pippox",
             "email" : "pippo@gmail.com",
             "password" : "pippo123"
         }
